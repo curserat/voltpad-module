@@ -1,0 +1,8 @@
+file_format: "1"
+id: voltpad
+name: VOLTPAD
+type: shield
+url: https://github.com/curserat/voltpad-module
+requires: [pro_micro]
+features:
+  - keys
